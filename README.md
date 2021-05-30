@@ -15,13 +15,13 @@ You can click the Preview link to take a look at your changes.
   </head>
   <body>
     <h1 align="center">Hello, I am navneet Singh</h1>
-<h3 align="center">Penetration tester</h3>
+    <h3 align="center">Penetration tester</h3>
     
     <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/navneet-singh-ethical-hacker/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Navneet Singh" height="30" width="40" /></a>
+    <p align="left">
+      <a href="https://www.linkedin.com/in/navneet-singh-ethical-hacker/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Navneet Singh" height="30" width="40" /></a>
 
-<a href="https://www.hackerrank.com/navneet3057" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Navneet Singh" height="30" width="40" /></a>    
+      <a href="https://www.hackerrank.com/navneet3057" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Navneet Singh" height="30" width="40" /></a>    
 
   </body>
 </html>
