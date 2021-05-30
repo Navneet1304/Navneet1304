@@ -16,15 +16,9 @@ You can click the Preview link to take a look at your changes.
   <body>
     <!--h1 align="center">Hello, I am navneet Singh</h1>
 <h3 align="center">Penetration tester</h3-->
-    
-- 👋 Hi, I’m  Navneet Singh (github ID. @Navneet1304)
-- 👀 I’m interested in Ethical Hacking, machine learning, Penetration testing and Bug-Bounty.
-- 🌱 I’m currently Pursuing my  Bachelor Of Technology in Computer Science & Engineering from Saraswati Higher Education and Technical College of Engineering and Management, Babatpur, varanasi. 
-- 📫 Mail: navneet3057@gmail.com
-
 <h3 align="left">Connect  me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/navneet-singh-ethical-hacker/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1617605725~hmac=9572e4be2264b6e2e77650c69450f3fa" alt="pushpa kumari" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/navneet-singh-ethical-hacker/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1617605725~hmac=9572e4be2264b6e2e77650c69450f3fa" alt="Navneet Singh" height="30" width="40" /></a>
  <!--h3 align="left">Coding Profiles:</h3>
 <p align="left">
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/pushpakumari5117/practice/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20200926103715/gfgimagw.PNG" alt="pushpakumari_gfg" height="30" width="40" style="background-color: green"/></a>
